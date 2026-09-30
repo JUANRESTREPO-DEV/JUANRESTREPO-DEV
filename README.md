@@ -91,12 +91,6 @@ QA for high-traffic critical government platforms.
 | Repo | Description |
 |------|-------------|
 | [polizas-api](https://github.com/JUANRESTREPO-DEV/polizas-api) | Rental insurance policy API · Spring Boot 3.5 · Hexagonal architecture · RFC 7807 · Legacy CORE integration<br>[![CI](https://github.com/JUANRESTREPO-DEV/polizas-api/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/JUANRESTREPO-DEV/polizas-api/actions/workflows/ci.yml) [![codecov](https://codecov.io/gh/JUANRESTREPO-DEV/polizas-api/branch/main/graph/badge.svg)](https://codecov.io/gh/JUANRESTREPO-DEV/polizas-api) |
-| [clinica-del-pie-backend](#) | Spring Boot microservices · PostgreSQL/AWS RDS · RabbitMQ · JWT · Liquibase |
-| [clinica-del-pie-frontend](#) | Angular 17 · TypeScript · RxJS · Role-based UI · REST integration |
-| [eduessence-platform](#) | Multi-microservice platform · Eureka · API Gateway · MySQL · Flyway |
-| [spring-cloud-gateway-template](#) | Gateway + JWT validation + Rate Limiting + Circuit Breaker |
-| [event-driven-skeleton](#) | RabbitMQ · DLQ · Retry · Exponential Backoff · Saga choreography |
-| [architecture-decisions](#) | ADR collection: Saga, CQRS, Event Sourcing, Gateway trade-offs |
 
 ---
 
